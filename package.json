@@ -1,0 +1,8 @@
+{
+  "name": "tanvi-relay",
+  "version": "1.0.0",
+  "description": "Tanvi v32.1 WebSocket Relay",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
